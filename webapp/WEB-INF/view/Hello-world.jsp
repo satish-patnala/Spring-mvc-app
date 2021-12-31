@@ -8,6 +8,6 @@
 </head>
 <body>
 	<p>welcome to JSPIDERS</p>
-	<a href="https://jspiders.com/">JSPIDERS WEBSITE info</a>
+	<a href="https://jspiders.com/">JSPIDERS WEBSITE INFO</a>
 </body>
 </html>
